@@ -1,0 +1,2 @@
+# gtk-theme-icon
+gtk 
